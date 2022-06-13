@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "92859679259",
+    "project_id": "cant-wait-eac07",
+    "storage_bucket": "cant-wait-eac07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92859679259:android:5c3007ce836ef95067eebe",
+        "android_client_info": {
+          "package_name": "com.michalinastaron.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92859679259-7jk0e324ffv1jki8a9fiao0sdkimnkao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fi5aMK4D_EjOkInaXkql5JI0xrtt0Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92859679259-7jk0e324ffv1jki8a9fiao0sdkimnkao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92859679259-hqcsa67k9tt58gqbdtcplml6sv403lf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.michalinastaron.cantwait28"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
